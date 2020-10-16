@@ -6,4 +6,4 @@ This guide is my proposal to write test cases, to do bug tracking and some tools
 - [Bug tracking](https://github.com/malejaps/my_QA_guide/blob/main/BugTracking/bug-tracking.md) 
 - [Tools](https://github.com/malejaps/my_QA_guide/tree/main/Tools)
 
-... and a gift for you [Pruebas Agiles](https://slides.com/malejap/pruebas-agiles-univalle/#/17) by malejaps 
+... and a gift for you [Agile Testing (spanish)](https://slides.com/malejap/pruebas-agiles-univalle/) by malejaps 
