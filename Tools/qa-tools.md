@@ -2,17 +2,17 @@
 
 Sometimes we need generic tools for all our QA tasks, here a links collection:
 
--Delete cache in web browsers
+-Delete cache in web browsers  
 https://raiolanetworks.es/blog/borrar-cache-chrome-firefox-opera-safari-explorer/
 
--Temporal email
+-Temporal email  
 https://temp-mail.org/es/  
 http://www.yopmail.com/es/
 
--DevTools 
+-DevTools   
 https://developers.google.com/web/tools/chrome-devtools?hl=es
 
--Postman
+-Postman  
 https://www.postman.com/
 
 
