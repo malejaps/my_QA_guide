@@ -30,6 +30,6 @@ Order to resolve an issue
 - Medium
 - Low
 
-**References**
+**References**.    
 https://www.atlassian.com/es/software/jira/bug-tracking  
 https://testerwork.com/testing-guides/bug-severities/

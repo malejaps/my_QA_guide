@@ -4,7 +4,7 @@
 Summary of test case
 
 ### Links
-Links to Design: UI mockups or design (zeplin, invision, etc)
+Links to Design: UI mockups or design (zeplin, invision, etc)  
 Links to User Stories related
 
 ### Preconditions
