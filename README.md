@@ -3,4 +3,5 @@ My proposal to write test cases and bugs. Some strategies for agile testing and 
 
 - Test cases template
 - Bug template
-- Bug tracking guide
+- Bug tracking 
+- Tools
