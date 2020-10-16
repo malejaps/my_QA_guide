@@ -6,7 +6,7 @@ Sometimes we need generic tools for all our QA tasks, here a links collection:
 https://raiolanetworks.es/blog/borrar-cache-chrome-firefox-opera-safari-explorer/
 
 -Temporal email
-https://temp-mail.org/es/
+https://temp-mail.org/es/  
 http://www.yopmail.com/es/
 
 -DevTools 
