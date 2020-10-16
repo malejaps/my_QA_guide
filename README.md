@@ -1,5 +1,5 @@
-# My QA templates
-My proposal to write test cases and bugs. 
+# My QA Guide
+My proposal to write test cases and bugs. Some strategies for agile testing and bug tracking processes
 
 - Test cases template
 - Bug template
