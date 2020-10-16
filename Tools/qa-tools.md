@@ -1,6 +1,6 @@
-## Util QA Tools
+## Useful QA Tools
 
-Sometimes we need tools for all our QA tasks, here a links collection:
+Sometimes we need generic tools for all our QA tasks, here a links collection:
 
 -Delete cache in web browsers
 https://raiolanetworks.es/blog/borrar-cache-chrome-firefox-opera-safari-explorer/

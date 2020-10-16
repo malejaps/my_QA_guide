@@ -7,3 +7,8 @@ A QA should know about programming, here the recommended code skills:
 - TypeScript
 - Page Object Model Pattern
 - POO
+
+Of course you should know about Git:
+
+- Concepts
+- Commands
