@@ -1,13 +1,13 @@
 # Issue # - Title 
 
 ## Summary
-...
+Short description of issue
 
 ## Actual Result
-...
+Detail and example of actual result
 
 ## Expected Result
-...
+Detail and example of expected result
 
 ## Configuration
 Enviroment:
@@ -23,7 +23,7 @@ Pass:
 3. Select ...
 
 ## Reproducibility
-5/5
+5/5 (5 fails / 5 attempts)
 
 ## Evidences 
 (Videos, screenshots, logs, etc)
@@ -31,5 +31,5 @@ Pass:
 ## Severity
 (Critical, Major, Medium, Low)
 
-## Prioridad 
+## Priority
 (High, Medium, Low)
