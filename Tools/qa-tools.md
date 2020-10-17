@@ -1,6 +1,6 @@
 ## Useful QA Tools
 
-For bug tracking and test cases management, there are several opensource and paid tools:
+There are several opensource and paid tools for bug tracking and test cases management:
 - Testlink
 - Bugzilla
 - JIRA 
