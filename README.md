@@ -7,3 +7,5 @@ This guide is my proposal to write test cases, to do bug tracking and some tools
 - [Tools](https://github.com/malejaps/my_QA_guide/tree/main/Tools)
 
 ... and a gift for you [Agile Testing (spanish)](https://slides.com/malejap/pruebas-agiles-univalle/) by malejaps 
+
+**By Maria Alejandra Pabón - ©2020**
