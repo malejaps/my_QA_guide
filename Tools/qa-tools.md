@@ -1,18 +1,37 @@
 ## Useful QA Tools
 
+For bug tracking and test cases management, there are several opensource and paid tools:
+- Testlink
+- Bugzilla
+- JIRA 
+- Taiga
+- Clickup
+- Trello
+- GSuite
+- Github (?) ....yes, you can write test cases using markdown ang to do buf traacking using tab "Issues"
+
 Sometimes we need generic tools for all our QA tasks, here a links collection:
 
--Delete cache in web browsers  
+- Delete cache in web browsers  
 https://raiolanetworks.es/blog/borrar-cache-chrome-firefox-opera-safari-explorer/
 
--Temporal email  
+- Temporal email  
 https://temp-mail.org/es/  
-http://www.yopmail.com/es/
+http://www.yopmail.com/
 
--DevTools   
+- Characters counter  
+https://www.contadordecaracteres.com/
+
+- Hexadecimal colors  
+https://htmlcolorcodes.com/es/
+
+- DevTools   
 https://developers.google.com/web/tools/chrome-devtools?hl=es
 
--Postman  
+- Postman  
 https://www.postman.com/
+
+
+**By Maria Alejandra Pabón - ©2020**
 
 
