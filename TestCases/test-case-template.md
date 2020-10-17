@@ -16,9 +16,13 @@ What should be done before execute test case
 |------|-----------------|
 |  Step 1     |     Expected Result of Step 1            |
 |  Step 2    |      Expected Result of Step 2            |
+...
 
 ### Author
 Author name of test case
 
 ### Last Update
 Datetime of last update
+
+
+**By Maria Alejandra Pabón - ©2020**
