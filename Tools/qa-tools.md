@@ -8,7 +8,7 @@ There are several opensource and paid tools for bug tracking and test cases mana
 - Clickup
 - Trello
 - GSuite
-- Github (?) ....yes, you can write test cases using markdown ang to do buf traacking using tab "Issues"
+- Github (?) ....yes, you can write test cases using markdown ang to do bug tracking using tab "Issues"
 
 Sometimes we need generic tools for all our QA tasks, here a links collection:
 
