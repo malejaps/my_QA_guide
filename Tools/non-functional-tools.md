@@ -28,3 +28,5 @@ UI checklist: https://testingbaires.com/2014/06/05/checklist-para-interfaz-de-us
 Checklist UI/Usabilidad: https://www.raveinfosys.com/Doc/Web%20App%20UI%20Testing%20Checklist%20-%20Web%20App%20UI%20Checks 
 Herramientas usabilidad  
 https://www.tiendawebonline.es/blog/ayuda/las-10-mejores-herramientas-de-usabilidad-web 💜   
+
+**By Maria Alejandra Pabón - ©2020**
