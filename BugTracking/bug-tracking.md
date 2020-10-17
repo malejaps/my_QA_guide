@@ -34,8 +34,8 @@ Order to resolve an issue
 
 All these statuses sometimes are configured by the bug tracking tool (Taiga, Bugzilla, etc.), however, there are many tools where they can be customized (Github issues, JIRA tags, etc.)
 
-**- Maria Alejandra Pabón - 2020**
-
 *References*
 https://www.atlassian.com/es/software/jira/bug-tracking  
 https://testerwork.com/testing-guides/bug-severities/
+
+**By Maria Alejandra Pabón - ©2020**
