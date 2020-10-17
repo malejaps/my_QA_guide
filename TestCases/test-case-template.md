@@ -18,6 +18,8 @@ What should be done before execute test case
 |  Step 2    |      Expected Result of Step 2            |
 ...
 
+*Steps for exceptions path and happy path (one case for both: first exception path, then happy path. Or one test case for each path)
+
 ### Author
 Author name of test case
 
