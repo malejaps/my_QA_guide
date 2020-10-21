@@ -19,11 +19,11 @@ If we want to be more accuracy, **derivative metrics** are better, absolute metr
 - Test Effort
 - Test Team Metrics
 - Test Execution Status
-- Defect Distribution Charts
+- Defect Distribution Charts  
 ... etc.
 
 
-**References recommended**
+**References recommended**  
 https://www.tricentis.com/blog/64-essential-testing-metrics-for-measuring-quality-assurance-success/  
 https://www.linkedin.com/pulse/measuring-qa-team-effectiveness-boris/
 
