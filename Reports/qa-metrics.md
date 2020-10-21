@@ -27,6 +27,8 @@ If we want to be more accuracy, **derivative metrics** are better, absolute metr
 https://www.tricentis.com/blog/64-essential-testing-metrics-for-measuring-quality-assurance-success/  
 https://www.linkedin.com/pulse/measuring-qa-team-effectiveness-boris/
 
+**By Maria Alejandra Pabón - ©2020** 
+
 
 
 
